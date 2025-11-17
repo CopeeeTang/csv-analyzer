@@ -15,6 +15,17 @@
 4.sandbox隔离进行代码执行权限
 5.未来的迭代可以接入外部的mcp工具，目前能够调用的工具有限，后续可以做成一个mcp server的形式，后续同时可以加入更多的模型
 
+可以先用我的apikey
+.env
+```text
+# 智谱AI API密钥
+ZHIPU_API_KEY=14832a226ca5432a83cdae0092ecb77a.tM9KN8Xlf18QCkEz
+
+# 可选配置
+LOG_LEVEL=INFO
+MAX_RETRIES=5
+EXECUTION_TIMEOUT=30
+```
 ---
 
 ## 系统架构
@@ -56,7 +67,7 @@
 
 以下视频展示了系统的完整使用流程：
 
-https://github.com/CopeeeTang/csv-analyzer/assets/demo.mov
+https://github.com/CopeeeTang/csv-analyzer/blob/main/demo.mov
 
 > **提示**: 视频使用 Git LFS 存储。如果无法直接在 GitHub 上播放，可以克隆仓库后本地查看 `demo.mov` 文件。
 

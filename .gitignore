@@ -1,0 +1,25 @@
+# Environment
+.env
+venv/
+env/
+*.pyc
+__pycache__/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Outputs
+output/
+logs/
+*.log
+
+# Data
+data/*.csv
+!data/sample.csv
+
+# System
+.DS_Store
+*.bak

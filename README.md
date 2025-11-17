@@ -52,6 +52,23 @@
 
 ---
 
+## 演示视频 🎬
+
+以下视频展示了系统的完整使用流程：
+
+https://github.com/CopeeeTang/csv-analyzer/assets/demo.mov
+
+> **提示**: 视频使用 Git LFS 存储。如果无法直接在 GitHub 上播放，可以克隆仓库后本地查看 `demo.mov` 文件。
+
+### 演示内容
+- CSV 数据加载与预览
+- 自然语言查询交互
+- 代码自动生成与执行
+- 可视化图表生成
+- 错误自动修复演示
+
+---
+
 ## 快速开始
 
 请参考 [QUICKSTART.md](QUICKSTART.md)
